@@ -1,13 +1,15 @@
 
 ## Ricardo Heras 
 
-<head>
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
 ![pic](https://user-images.githubusercontent.com/106295932/170426864-223c06e6-fe23-4609-9359-5525230a8f35.jpg)
 Welcome to my website! My name is Ricardo Heras and I’m an undergraduate student of physics at the Open University. Here you will find information about my publications, research interest, and my lecture notes in theoretical physics. If you would like to get it touch for to discuss physics or for whatever reason please do so! (ricardo.heras@ou.ac.uk).
+    
+## Publications   
+
+
+    
+    
+  
 
 
 You can use the [editor on GitHub](https://github.com/ricardoheras/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
