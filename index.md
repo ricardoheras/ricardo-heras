@@ -1,4 +1,12 @@
-![pic](https://user-images.githubusercontent.com/106295932/170426349-4e208518-8d67-4cc4-ab19-8bbcddef2bd5.jpg)
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Zhuoran  Qiao</title>
+<meta name="description" content="A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. \#AI4Science fellow, PhD student at Miller Group, Caltech.">
 ## Ricardo Heras 
 
 Welcome to my website! My name is Ricardo Heras and I’m an undergraduate student of physics at the Open University. Here you will find information about my publications, research interest, and my lecture notes in theoretical physics. If you would like to get it touch for to discuss physics or for whatever reason please do so! (ricardo.heras@ou.ac.uk).
