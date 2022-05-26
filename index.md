@@ -1,12 +1,15 @@
 
 ## Ricardo Heras 
+<img src="https://user-images.githubusercontent.com/106295932/170426864-223c06e6-fe23-4609-9359-5525230a8f35.jpg"  width=50% height=50%>
 
-![pic](https://user-images.githubusercontent.com/106295932/170426864-223c06e6-fe23-4609-9359-5525230a8f35.jpg)
 Welcome to my website! My name is Ricardo Heras and I’m an undergraduate student of physics at the Open University. Here you will find information about my publications, research interest, and my lecture notes in theoretical physics. If you would like to get it touch for to discuss physics or for whatever reason please do so! (ricardo.heras@ou.ac.uk).
 
-<img src="https://user-images.githubusercontent.com/106295932/170426864-223c06e6-fe23-4609-9359-5525230a8f35.jpg"  width=50% height=50%>
+
     
 ## Publications   
+
+[25] R. Heras, The Aharonov-Bohm effect in a closed flux line, Eur. Phys. J. Plus 137, 847 (2022).
+
 
 
     
