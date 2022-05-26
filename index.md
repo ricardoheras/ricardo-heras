@@ -1,3 +1,4 @@
+![pic](https://user-images.githubusercontent.com/106295932/170426349-4e208518-8d67-4cc4-ab19-8bbcddef2bd5.jpg)
 ## Ricardo Heras 
 
 Welcome to my website! My name is Ricardo Heras and I’m an undergraduate student of physics at the Open University. Here you will find information about my publications, research interest, and my lecture notes in theoretical physics. If you would like to get it touch for to discuss physics or for whatever reason please do so! (ricardo.heras@ou.ac.uk).
